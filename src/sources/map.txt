@@ -1,0 +1,10 @@
+hall, livingroom, kitchen, bedroom, bathroom, office, wc, kids room, storage room, garden
+livingroom, kids room, storage room, hall
+kitchen, hall
+bedroom, hall
+bathroom, hall
+wc, hall
+office, hall
+kids room, hall, livingroom
+storage room, hall, livingroom, garden
+garden, hall, storage room

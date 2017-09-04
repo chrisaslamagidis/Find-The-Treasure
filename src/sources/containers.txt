@@ -1,0 +1,31 @@
+mirror, description, available, notOpen, empty, 20, notOpenable, wc
+toilet, description, available, notOpen, empty, 50, openable, wc
+washing machine,description, available, notOpen, notEmpty, 200, openable, wc
+cabinet, description, available, notOpen, notEmpty, 150, openable, wc
+chest, description, available, notOpen, notEmpty, 200, openable, storage room
+shoes, description, available, open, notEmpty, 10, notOpenable, storage room
+car, description, available, notOpen, notEmpty, 1000, openable, storage room
+tool box, description, available, notOpen, notEmpty, 200, openable, storage room
+dining table, description, available, open, notEmpty, 200, notOpenable, livingroom
+coffee table, description, available, open, notEmpty, 50, notOpenable, livingroom
+couch, description, available, open, notEmpty, 100, notOpenable, livingroom
+television, description, available, notOpen, empty, 50, openable, livingroom
+armchair, description, available, open, empty, 50, notOpenabe, livingroom
+play ground, description, available, open, empty, 200, notOpenable, kids room
+bed, description, available, open, empty, 200, notOpenable, kids room
+wardrobe, description, available, notOpen, notEmpty,300, openable, bedroom
+double bed, description, available, open, notEmpty, 200,notOpenable, bedroom
+bedside table, description, available, notOpen, notEmpty, 100,openable, bedroom
+fridge, description, available, notOpen, notEmpty, 200, openable, kitchen
+closet, description, available, notOpen, notEmpty, 150, openable, kitchen
+table, description, available, open, notEmpty, 150, notOpenable, kitchen
+furnace, description, available, notOpen, notEmpty, 150, openable, kitchen
+desk, description, available, open, notEmpty, 55, notOpenable, office
+library, description, available, open, notEmpty, 500, notOpenable, office
+bathtub, description, available, open, notEmpty, 200, notOpenable, bathroom
+bathroom cabinet, description, available, notOpen, notEmpty, 200, openable, bathroom
+dog house, description, available, open, notEmpty, 200,notOpenable, garden
+founten, description, available, open, notEmpty,250, notOpenable, garden
+statue, description, available, notOpen, notEmpty,600, openable, hall
+painting, description, available, open, notEmpty, 44,notOpenable, hall
+

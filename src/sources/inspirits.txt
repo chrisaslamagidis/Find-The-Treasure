@@ -1,0 +1,8 @@
+woman, english, blonde, 21, 55, 1.80, sara, Sara is here, available, livingroom
+woman, english, red, 50, 70,  1.60, janet, Janet is here, available, kitchen
+man,chinese, brown, 30, 80,  1.80, mr chao, Here is mr Chao, available, bedroom
+animal,dog language, blonde, 2, 20, 0.50,max, Here is lovely labrador, available,garden
+man, greek, brown, 35, 75, 1.70 ,achileas, Here is a greek lover, available, bathroom
+
+
+                

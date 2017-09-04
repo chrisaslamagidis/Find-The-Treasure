@@ -1,0 +1,11 @@
+livingroom, description , unlocked
+hall, this room is the hall, unlocked
+kitchen, this room is the kitchen, unlocked
+bedroom, this room is the bedroom, unlocked
+bathroom, this room is the bathroom, unlocked
+wc, description, unlocked
+kids room, description, unlocked
+office, description, unlocked
+storage room, description, unlocked
+garden, description, unlocked
+

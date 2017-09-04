@@ -1,0 +1,46 @@
+useable, notEatable, notHarmful, notWeapon, notReadable, 0, fist puzzle part, description, available,washing machine
+notUseable, notEatable, notHarmful, notWeapon, readable, 0, mirror message, description, available,mirror
+useable, notEatable, harmful, weapon, notReadable, 0, shears, description, available, cabinet
+useable, notEatable, harmful, weapon, notReadable, 0, razor, description, available,cabinet
+useable, notEatable, notHarmful, notWeapon, notReadable, 0, soap, description, available,wc
+useable, notEatable, notHarmful, notWeapon, notReadable, 0, second puzzle part, description, available,chest
+useable, notEatable, notHarmful, notWeapon, notReadable, 0, bedroom key, description, available,chest
+useable, notEatable, notHarmful, notWeapon, readable, 0, script, description, available,shoes
+useable, notEatable, harmful, weapon, notReadable, 0, gun, description, available, car
+Notuseable, notEatable, harmful, notWeapon, notReadable, 0, tiger, description, available,car
+useable, notEatable, notHarmful, weapon, notReadable, 0, screw drive, description, available,tool box
+useable, notEatable, notHarmful, notWeapon, notReadable, 0, hammer, description, available,tool box
+useable, notEatable, notHarmful, notWeapon, notReadable, 0, shovel, description, available,storage room
+useable, notEatable, notHarmful, notWeapon, notReadable, 0, axe, description, available,storage room
+useable, eatable, notHarmful, notWeapon, notReadable, 0, dish of food, description, available,dining table
+useable, notEatable, notHarmful, notWeapon, notReadable, 0, napkin, description, available,dining table
+useable, eatable, notHarmful, notWeapon, notReadable, 0, coffee, description, available,coffee table
+useable, notEatable, notHarmful, notWeapon, notReadable, 0, kids room key, description, available,couch
+Notuseable, notEatable, notHarmful, notWeapon, notReadable, 0, tv message, description, available,television
+useable, notEatable, notHarmful, notWeapon, readable, 0, harry poter book, description, available,armchair
+useable, notEatable, notHarmful, notWeapon, notReadable, 0, third puzzle part, description, available, play ground
+Notuseable, notEatable, harmful, notWeapon, notReadable, 0, clone, description, available,bed
+useable, eatable, notHarmful, notWeapon, notReadable, 0, marijuana, description, available,wardrobe
+useable, notEatable, notHarmful, notWeapon, notReadable, 0, money, description, available,wardrobe
+useable, eatable, notHarmful, notWeapon, notReadable, 0, water, description, available,double bed
+useable, notEatable, notHarmful, notWeapon, notReadable, 0, microscope, description, available,bedside table
+useable, eatable, notHarmful, notWeapon, notReadable, 0, chocolate, description, available,fridge
+useable, eatable, notHarmful, notWeapon, notReadable, 0, banana, description, available,fridge
+useable, eatable, notHarmful, notWeapon, notReadable, 0, beer, description, available,fridge
+useable, notEatable, harmful, weapon, notReadable, 0, knife, description, available,closet
+useable, eatable, notHarmful, notWeapon, notReadable, 0, pizza, description, available,table
+useable, notEatable, notHarmful, notWeapon, notReadable, 0, fourth puzzle part, description, available,furnace
+useable, eatable, notHarmful, notWeapon, notReadable, 0, whisky, description, available,kitchen
+useable,notEatable, notHarmful, notWeapon, notReadable, 0, cleaver, description, available,kitchen
+useable, notEatable, notHarmful, notWeapon, readable, 0, note, description, available,desk
+useable, notEatable, notHarmful, notWeapon, readable, 0, davinci code, description, available,library
+useable, notEatable, notHarmful, notWeapon, readable, 0, lord of The ring, description, available,library
+useable,notEatable, notHarmful, notWeapon, readable, 0,men's health, description, available,library
+Notuseable, notEatable, notHarmful, notWeapon,notReadable, 0,bubbles, description, available,bathtub
+useable, notEatable, notHarmful, notWeapon,notReadable, 0,code, description, available,bathroom cabinet
+useable, notEatable, notHarmful, notWeapon,notReadable, 0,fifth puzzle part, description, available,founten
+useable, notEatable, notHarmful, notWeapon,notReadable, 0,treasure key, description, available,statue
+
+
+
+
